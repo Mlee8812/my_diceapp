@@ -1,10 +1,10 @@
-# my_app
+# my_diceapp
 
-A new Flutter project.
+Flutter project that rolls the dice by pressing it 
 
-## Getting Started
 
-This project is a starting point for a Flutter application that rolls the dice.
+
+
 
 
 
